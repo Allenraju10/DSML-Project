@@ -15,4 +15,5 @@ Predict the number of shares an article is likely to receive
 Understand which predictors affect the outcome (may reduce number of attributes if deemed unnecessary)
 Assess the quality of predictions
 
-#### By: Allen Daniel Raju
+#### By : Allen Daniel Raju
+#### Batch : D53
