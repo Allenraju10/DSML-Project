@@ -2,8 +2,6 @@
 
 ### Online News Popularity Project
 
-By: Allen Daniel Raju
-
 ### Project Topic
 
 The transition of news from print, television, and radio to digital spaces has caused significant disruptions in the traditional news industry. Online platforms such as Buzzfeed, Mashable, and Medium publish a multitude of articles daily. To remain relevant, these platforms strive to publish articles that will attract more visitors and encourage widespread sharing.
@@ -16,3 +14,5 @@ In this study, I will analyze the Mashable dataset, which comprises data for nea
 Predict the number of shares an article is likely to receive
 Understand which predictors affect the outcome (may reduce number of attributes if deemed unnecessary)
 Assess the quality of predictions
+
+#### By: Allen Daniel Raju
