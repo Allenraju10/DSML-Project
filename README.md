@@ -11,9 +11,9 @@ In this study, I will analyze the Mashable dataset, which comprises data for nea
 
 
 ### Goals
-Predict the number of shares an article is likely to receive
-Understand which predictors affect the outcome (may reduce number of attributes if deemed unnecessary)
-Assess the quality of predictions
+1. Predict the number of shares an article is likely to receive
+2. Understand which predictors affect the outcome (may reduce number of attributes if deemed unnecessary)
+3. Assess the quality of predictions
 
 #### By : Allen Daniel Raju
 #### Batch : D53
