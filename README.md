@@ -18,19 +18,13 @@ In this study, I will analyze the Mashable dataset, which comprises data for nea
 ### Models
 I implemented a variety of different models and approaches to improve model accuracy.
 
-Simple linear regression
-
-Multilinear regression
-
-Ridge and Lasso regression
-
-Cross validation
-
-Random Forest
-
-Variance Inflation Factor
-
-Polynomial Regression
+* Simple linear regression
+* Multilinear regression
+* Ridge and Lasso regression
+* Cross validation
+* Random Forest
+* Variance Inflation Factor
+* Polynomial Regression
 
 ### Discussion and Conclusion
 In this study, my goal was to explore article sharing behavior in the digital landscape. I went into this project with the hope that I could construct a model that could be used to accurately predict the number of shares an article was likely to get. Although I was not able to construct an accurate model, I did learn several new techniques that I hope to employ in future projects.
